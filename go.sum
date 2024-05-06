@@ -1,0 +1,6 @@
+github.com/eatmoreapple/openwechat v1.4.6 h1:m/Run2wN9zptKnoS8R3edLNWLlZOOgk13Bq8Y61zSTU=
+github.com/eatmoreapple/openwechat v1.4.6/go.mod h1:h4m2N8m0XsUKlm7UR8BUGkV89GNuKHCnlGV3J8n9Mpw=
+github.com/robfig/cron v1.2.0 h1:ZjScXvvxeQ63Dbyxy76Fj3AT3Ut0aKsyd2/tl3DTMuQ=
+github.com/robfig/cron v1.2.0/go.mod h1:JGuDeoQd7Z6yL4zQhZ3OPEVHB7fL6Ka6skscFHfmt2k=
+github.com/robfig/cron/v3 v3.0.1 h1:WdRxkvbJztn8LMz/QEvLN5sBU+xKpSqwwUO1Pjr4qDs=
+github.com/robfig/cron/v3 v3.0.1/go.mod h1:eQICP3HwyT7UooqI/z+Ov+PtYAWygg1TEWWzGIFLtro=
